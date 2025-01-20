@@ -32,7 +32,7 @@ import { findTransactionRequired, randomAddress } from '@ton/test-utils';
 import { estimateMessageImpact, getMsgPrices, MsgPrices, storageGeneric } from './gasUtils';
 import { ErrorsV5 } from '../wrappers/Errors';
 import {
-    WalletV5Test,
+    WalletV5actiond,
     MessageOut,
     WalletActions,
     ExtendedAction,
